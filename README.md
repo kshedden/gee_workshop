@@ -1,7 +1,7 @@
 Generalized Estimating Equations (GEE) in Python Statsmodels
 ============================================================
 
-https://github.com/statsmodels/statsmodels/wiki/Examples
+https://github.com/statsmodels/statsmodels/wiki/Examples (scroll down to GEE section)
 
 https://github.com/statsmodels/statsmodels/blob/master/statsmodels/genmod/generalized_estimating_equations.py
 
